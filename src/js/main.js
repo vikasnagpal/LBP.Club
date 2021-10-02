@@ -25,9 +25,9 @@
     }).add({
       duration: 400,
       easing: 'easeInOutExpo',
-      scaleX: [0.05, 0.05],
-      scaleY: [0, 1],
-      perspective: '500px',
+      scaleX: [1.5, 0],
+      scaleY: [0, 1.5],
+      perspective: '5000px',
       delay: anime.random(0, 400)
     }).add({
       duration: 400,
